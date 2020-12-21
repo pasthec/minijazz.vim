@@ -9,7 +9,7 @@ endif
 
 syn keyword basics where end if then else true false not and or xor nand mux
 syn keyword cons reg ram rom const
-syn match inumber '\a\d\+'
+syn match inumber '\w\d\+'
 syn match number '\<\d\+\>'
 syn match bloc '^\w\+'
 
