@@ -1,7 +1,7 @@
 # minijazz.vim
 Vim syntax coloring file for minijazz ( https://github.com/inria-parkas/minijazz )
 
-##Installation
+## Installation
 
 Put the file in `$VIM/syntax/`, where many other syntax files should already be.
 
